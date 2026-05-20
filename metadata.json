@@ -1,0 +1,6 @@
+{
+  "name": "NexusHR",
+  "description": "Production-grade enterprise HR management SaaS platform with AI workforce intelligence, payroll, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
